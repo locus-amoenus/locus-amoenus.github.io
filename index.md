@@ -94,7 +94,7 @@ end
 
 ### Giardino
 
-![Giardino]({{ '/assets/img/DSCN1488.jpg' | relative_url }})
+![Giardino]({{ '/assets/img/DSCN1488.JPG' | absolute_url }})
 
 ### Definition lists can be used with HTML syntax.
 
