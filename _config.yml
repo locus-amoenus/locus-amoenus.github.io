@@ -6,9 +6,9 @@ plugins:
 
 title: Appartamento quartiere Nascosa
 email: email@gmail.com
-description: Affittasi ampio appartamento sito in Q5
+description: Ampio appartamento sito in Q5.
 baseurl: ''
-url: 'http://localhost:4000'
+url: https://locus-amoenus.github.io/
 
 # Costruttore
 

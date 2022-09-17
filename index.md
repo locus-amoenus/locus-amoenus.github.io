@@ -92,11 +92,9 @@ end
   - level 2 item
 - level 1 item
 
-### Small image
+### Giardino
 
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-![descrizione]({{ '/assets/img/DSCN1488.jpg' | relative_url }})
+![Giardino]({{ '/assets/img/DSCN1488.jpg' | site_url }})
 
 ### Definition lists can be used with HTML syntax.
 
